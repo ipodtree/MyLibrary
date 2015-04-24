@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><bib>
+	
+	
+	<bib_ref>
+		    <ISBN>0001</ISBN>
+			<year>2001</year>
+			<title>title1</title>
+			<author>author1</author>
+	</bib_ref>
+	<bib_ref>
+		    <ISBN>0002</ISBN>
+			<year>2002</year>
+			<title>title2</title>
+			<author>author2</author>
+	</bib_ref>
+	<bib_ref>
+		    <ISBN>0011</ISBN>
+			<year>2011</year>
+			<title>title11</title>
+			<author>author11</author>
+	</bib_ref>
+	
+	
+	<bib_ref><ISBN>0005</ISBN><year>2005</year><title>title5</title><author>author5</author></bib_ref><bib_ref><ISBN>0006</ISBN><year>2006</year><title>title6</title><author>author6</author></bib_ref><bib_ref><ISBN>0010</ISBN><year>2010</year><title>title10</title><author>author10</author></bib_ref></bib>
